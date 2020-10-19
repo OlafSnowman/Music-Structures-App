@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    <color name="category_pop">#C62828</color>
+    <color name="category_country">#6A1B9A</color>
+    <color name="category_jazz">#1565C0</color>
+    <color name="category_rap">#00695C</color>
+</resources>

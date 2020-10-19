@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/pop"
+        style="@style/CategoryStyle"
+        android:layout_height="88dp"
+        android:padding="16dp"
+        android:background="@color/category_pop"
+        android:text="@string/pop_category"/>
+
+    <TextView
+        android:id="@+id/country"
+        style="@style/CategoryStyle"
+        android:layout_height="88dp"
+        android:padding="16dp"
+        android:background="@color/category_country"
+        android:text="@string/country_category"/>
+
+    <TextView
+        android:id="@+id/jazz"
+        style="@style/CategoryStyle"
+        android:layout_height="88dp"
+        android:padding="16dp"
+        android:background="@color/category_jazz"
+        android:text="@string/jazz_category"/>
+
+    <TextView
+        android:id="@+id/rap"
+        style="@style/CategoryStyle"
+        android:layout_height="88dp"
+        android:padding="16dp"
+        android:background="@color/category_rap"
+        android:text="@string/rap_category"/>
+
+</LinearLayout>

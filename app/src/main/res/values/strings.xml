@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Structure</string>
+
+    <!--Category Names-->
+    <string name="pop_category">Pop Music</string>
+    <string name="country_category">Country Music</string>
+    <string name="jazz_category">Jazz Music</string>
+    <string name="rap_category">Rap Music</string>
+</resources>
